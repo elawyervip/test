@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytest
+requests
+pandas
+Flask==2.3.2
+openai==0.27.8
+langchain-openai==0.0.9
+langchain-chroma==0.0.6
+gunicorn==20.1.0
